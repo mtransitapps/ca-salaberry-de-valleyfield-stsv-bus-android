@@ -1,9 +1,74 @@
 {
+    "exclude_routes_comment": "exclude Transport Adapté & On-Demand Communobus",
+    "exclude_routes": [
+        {
+            "route_id": "Com_1"
+        },
+        {
+            "route_id": "Com_2"
+        },
+        {
+            "route_id": "Com_3"
+        },
+        {
+            "route_id": "Com_4"
+        },
+        {
+            "route_id": "Com_5"
+        },
+        {
+            "route_id": "Com_6"
+        },
+        {
+            "route_id": "Com_7"
+        },
+        {
+            "route_id": "Com_8"
+        },
+        {
+            "route_id": "Com_9"
+        },
+        {
+            "route_id": "338"
+        }
+    ],
+    "use_route_id_for_route_short_name": true,
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "((ligne )?\\d+)",
+            "ignore_case": true,
+            "comment": "remove route short name"
+        }
+    ],
     "default_route_long_name_enabled": true,
+    "route_colors": [
+        {
+            "route_id": "10",
+            "color": "F07E0A",
+            "color_comment": "orange from PDF schedule"
+        },
+        {
+            "route_id": "30",
+            "color": "4092FF",
+            "color_comment": "BLUE from PDF schedule"
+        },
+        {
+            "route_id": "99",
+            "color": "7ED957",
+            "color_comment": "GREEN from PDF schedule"
+        }
+    ],
     "direction_finder_enabled": true,
+    "direction_splitter_enabled": true,
     "trip_headsign_remove_via": true,
-    "trip_headsign_cleaners": [],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((ligne )?\\d+)",
+            "ignore_case": true,
+            "comment": "remove route long name"
+        }
+    ],
     "stop_name_cleaners": []
 }

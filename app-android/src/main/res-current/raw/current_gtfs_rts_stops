@@ -1,0 +1,95 @@
+138,'','Rue Alexandre / Rue Danis',45.26426,-74.13542,0,48726
+140,'','Grande-Île / Danis',45.26480,-74.13366,0,48749
+141,'','Alexandre / Mgr-Langlois',45.26793,-74.13827,0,48750
+142,'','Grande-Île / Havre',45.26353,-74.13275,0,48751
+210,'','Term Salaberry-De-Valleyfield',45.25758,-74.12570,0,49617
+216,'','Havre / Maden (CLSC)',45.26460,-74.12994,0,49623
+244,'','1770 Boul Mgr-Langlois',45.27058,-74.12650,0,49714
+252,'','1770 Boul Mgr-Langlois',45.27058,-74.12650,0,49743
+253,'','Mgr-Langlois / Leduc',45.27139,-74.13143,0,49744
+260,'','Mgr-Langlois / Lyrette',45.26987,-74.12082,0,49772
+289,'','Mgr-Langlois / Grande-Île',45.26979,-74.13633,0,49843
+383,'','Chem Larocque / Rue Vallée',45.24870,-74.13158,0,50798
+404,'','Collège Valleyfield, Entrée Principale (169 Rue Champlain)',45.25301,-74.13331,0,51512
+406,'','Chem Larocque / Salaberry O',45.25056,-74.13337,0,51514
+410,'','St-Thomas / Bibliothèque Cégep',45.25330,-74.13209,0,51539
+608,'','Ste-Marie / St-Thomas',45.24353,-74.12392,0,53438
+615,'','Jacques-Cartier / Ste-Marie',45.24470,-74.12118,0,53466
+616,'','Jacques-Cartier / Trudeau',45.24321,-74.11994,0,53467
+618,'','Jacques-Cartier / Larin',45.24116,-74.11877,0,53469
+620,'','Jacques-Cartier / Louis-VI-Major',45.23934,-74.11712,0,53492
+622,'','Jacques-Cartier / Louis-VI-Major',45.23934,-74.11712,0,53494
+703,'','Jacques-Cartier / Ste-Marie',45.24470,-74.12118,0,54394
+705,'','Chem Larocque / Champagne',45.24654,-74.12997,0,54396
+707,'','Salaberry O / Nicholson',45.25232,-74.12945,0,54398
+709,'','Salaberry O / Palais Justice',45.25340,-74.12689,0,54400
+710,'','Académie / St-Jean-Baptiste',45.25491,-74.12711,0,54422
+711,'','Académie / St-Jean-Baptiste',45.25493,-74.12711,0,54423
+712,'','Rue Académie / Rue Victoria',45.25648,-74.12809,0,54424
+713,'','Grande-Île / Dufferin',45.26143,-74.13123,0,54425
+714,'','Grande-Île / Havre',45.26347,-74.13271,0,54426
+719,'','Rue Dufferin / Rue Gault',45.26172,-74.13040,0,54431
+721,'','Grande-Île / Notre-Dame',45.26683,-74.13510,0,54454
+723,'','Grande-Île / Mgr-Langlois',45.26917,-74.13688,0,54456
+724,'','Mgr-Langlois / Leduc',45.27139,-74.13143,0,54457
+725,'','Chem Larocque / Taillefer',45.24528,-74.12892,0,54458
+727,'','Ste-Marie / St-Thomas',45.24353,-74.12392,0,54460
+728,'','Mgr-Langlois / Lyrette',45.26987,-74.12082,0,54461
+729,'','Jacques-Cartier / Larin',45.24116,-74.11877,0,54462
+730,'','Alexandre / Notre-Dame',45.26621,-74.13703,0,54484
+732,'','Alexandre / Havre',45.26304,-74.13453,0,54486
+734,'','Alexandre / Dufferin',45.26067,-74.13227,0,54488
+736,'','Centenaire / Alphonse-Desjardins',45.25721,-74.12954,0,54490
+738,'','Jacques-Cartier / Victoria',45.25635,-74.12997,0,54492
+740,'','Jacques-Cartier / Champlain',45.25497,-74.12979,0,54515
+742,'','Champlain / Nicholson',45.25440,-74.13101,0,54517
+744,'','Chem Larocque / Champagne',45.24654,-74.12997,0,54519
+746,'','Ste-Marie / Chem Larocque',45.24272,-74.12666,0,54521
+748,'','Chem Larocque / Salaberry O',45.25056,-74.13337,0,54523
+750,'','Chem Larocque / Dominicaines',45.24800,-74.13121,0,54546
+752,'','Chem Larocque / Taillefer',45.24528,-74.12892,0,54548
+754,'','Jacques-Cartier / Trudeau',45.24321,-74.11994,0,54550
+800,'','St-Laurent / Chem St-Louis',45.31346,-73.87777,0,55352
+802,'','Boul Hébert / Mnt Pilon',45.30436,-73.98889,0,55354
+804,'','Boul Hébert / Av Mercier',45.30318,-73.99319,0,55356
+806,'','Boul Hébert / Av Miron',45.30170,-73.99860,0,55358
+808,'','Boul Hébert / Av Julien',45.30006,-74.02336,0,55360
+810,'','Hébert / Harfangs',45.30006,-74.02554,0,55383
+812,'','Hébert / St-Laurent',45.29631,-74.03258,0,55385
+814,'','Boul Hébert / Rue Potvin',45.29307,-74.03420,0,55387
+816,'','Boul Hébert / Rue Gougeon',45.29032,-74.03650,0,55389
+818,'','Boul Hébert / Rue Alma',45.28804,-74.04888,0,55391
+820,'','Hébert / Lilas',45.28753,-74.05182,0,55414
+822,'','Boul Hébert / Rue Racicot',45.27926,-74.06963,0,55416
+824,'','Boul Hébert / Rue Masson',45.27685,-74.07923,0,55418
+826,'','Boul Hébert / Rue Lapointe',45.27622,-74.08378,0,55420
+828,'','Hébert / Chem Golf',45.27413,-74.08971,0,55422
+830,'','Hébert / Ainés',45.29050,-74.03680,0,55445
+831,'','Hébert / Ainés',45.29050,-74.03680,0,55446
+833,'','Hébert / Chem Golf',45.27413,-74.08971,0,55448
+835,'','Boul Hébert / Rue Lapointe',45.27622,-74.08378,0,55450
+837,'','Boul Hébert / Rue Masson',45.27685,-74.07923,0,55452
+839,'','Boul Hébert / Rue Racicot',45.27926,-74.06963,0,55454
+841,'','Hébert / Lilas',45.28753,-74.05182,0,55477
+843,'','Boul Hébert / Rue Alma',45.28804,-74.04888,0,55479
+845,'','Hébert / Pie-XII',45.28965,-74.04012,0,55481
+847,'','Boul Hébert / Rue Gougeon',45.29032,-74.03650,0,55483
+849,'','Boul Hébert / Rue Potvin',45.29307,-74.03420,0,55485
+851,'','Hébert / St-Laurent',45.29631,-74.03258,0,55508
+853,'','Boul Hébert / Av Julien',45.30006,-74.02336,0,55510
+855,'','Hébert / Harfangs',45.30006,-74.02554,0,55512
+857,'','Boul Hébert / Av Miron',45.30170,-73.99860,0,55514
+859,'','Boul Hébert / Av Mercier',45.30318,-73.99319,0,55516
+861,'','Boul Hébert / Mnt Pilon',45.30436,-73.98889,0,55539
+863,'','St-Laurent / Chem St-Louis',45.31346,-73.87777,0,55541
+918,'','Havre / Maden (CLSC)',45.26439,-74.13022,0,56352
+919,'','Havre / Grande-Île',45.26373,-74.13220,0,56353
+920,'','Rue Dufferin / Rue Gault',45.26180,-74.13035,0,56375
+921,'','Rue Tougas / Rue Moco',45.26960,-74.12404,0,56376
+922,'','Rue Tougas / Rue Moco',45.26945,-74.12481,0,56377
+925,'','Boileau / Cité Jeunes',45.40337,-74.03812,0,56380
+1703,'','Ste-Marie / Chem Larocque',45.24272,-74.12666,0,1514153
+2105,'','Hébert / Pie-XII',45.28965,-74.04012,0,1538180
+5000,'','Gare Vaudreuil',45.39944,-74.05030,0,1626587
+5010,'','Chem Vieux-Canal (Près IGA)',45.27336,-74.19361,0,1626618
+5140,'','23 Route 201 (Près Familiprix)',45.29665,-74.17882,0,1627672
